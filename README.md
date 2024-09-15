@@ -1,5 +1,4 @@
-# Créer un jeu sur Godot facilement (Assets)
-Ce projet github contient toutes les assets utilisées dans la série "Créer son premier jeu vidéo facilement sur Godot" réalisée par zef de la [TUTO UNITY FR](https://www.youtube.com/c/tutounityfr).
+# Découverte de Godot 
 
 [![Alt text](https://www.tutounity.fr/upload/github/godot/assets/godot1.jpg)](https://www.youtube.com/watch?v=0-oeMuZLgK0)
 
